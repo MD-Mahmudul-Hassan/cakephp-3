@@ -49,3 +49,7 @@ configuration relevant for your application.
 The app skeleton uses a subset of [Foundation](http://foundation.zurb.com/) CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
+
+# cakephp-3
+Cakephp 3 goal
+76937c137ef39cc649a22685885902ec7c423c40
